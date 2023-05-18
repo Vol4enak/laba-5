@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/laba-5/static/css/main.7acaea2f.css",
-    "main.js": "/laba-5/static/js/main.07d3183d.js",
+    "main.css": "/laba-5/static/css/main.774c3873.css",
+    "main.js": "/laba-5/static/js/main.1b9036ef.js",
+    "static/media/BMW-M2-Coupe.jpg": "/laba-5/static/media/BMW-M2-Coupe.e4b4abceaa1303a7109b.jpg",
+    "static/media/mercedes-benz-coupe.jpg": "/laba-5/static/media/mercedes-benz-coupe.853e7c77df4baf59a4c6.jpg",
+    "static/media/Audi-A8-Edition-21.jpg": "/laba-5/static/media/Audi-A8-Edition-21.69f9d54ea2f97c0a876b.jpg",
+    "static/media/bentley-continental-gt-speed-black-edition.jpg": "/laba-5/static/media/bentley-continental-gt-speed-black-edition.b21d0b59a92e15d891c4.jpg",
     "index.html": "/laba-5/index.html",
-    "main.7acaea2f.css.map": "/laba-5/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/laba-5/static/js/main.07d3183d.js.map"
+    "main.774c3873.css.map": "/laba-5/static/css/main.774c3873.css.map",
+    "main.1b9036ef.js.map": "/laba-5/static/js/main.1b9036ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.774c3873.css",
+    "static/js/main.1b9036ef.js"
   ]
 }
