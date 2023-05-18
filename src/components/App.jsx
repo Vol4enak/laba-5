@@ -1,4 +1,4 @@
-import { carsItems } from '../data/cars';
+
 import BMW from './img/Audi-A8-Edition-21.jpg';
 import Audi from './img/BMW-M2-Coupe.jpg';
 import Bentley from './img/bentley-continental-gt-speed-black-edition.jpg';
